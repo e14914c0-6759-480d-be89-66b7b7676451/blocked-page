@@ -1,0 +1,27 @@
+{
+    "version": 1,
+    "servers": [
+        {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "remarks": "China IP is blocked",
+            "server": "127.0.0.1",
+            "server_port": 1024,
+            "password": "0",
+            "method": "chacha20-ietf-poly1305",
+            "plugin": "",
+            "plugin_opts": ""
+        },
+        {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "remarks": "Use foreign IP for subscription",
+            "server": "127.0.0.1",
+            "server_port": 1024,
+            "password": "0",
+            "method": "chacha20-ietf-poly1305",
+            "plugin": "",
+            "plugin_opts": ""
+        }
+    ],
+    "bytes_used": 0,
+    "bytes_remaining": 0
+}
